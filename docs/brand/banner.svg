@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" role="img" aria-label="RavenBlack — GammaHEX-HQ">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1500 500" role="img" aria-label="RavenBlack — GammaHEX-HQ">
   <rect width="1500" height="500" fill="#0c0b0a"/>
   <rect x="0" y="0" width="6" height="500" fill="#c81e3a"/>
   <text x="90" y="232" fill="#f2ece4" font-family="Chakra Petch, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="100" font-weight="700" letter-spacing="-2">RavenBlack</text>
@@ -7,18 +7,17 @@
   <text x="90" y="358" fill="#9a9188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">github.com/Raven-Black00/GammaHEX-HQ</text>
   <g fill="none" stroke="#c81e3a" stroke-width="3" opacity="0.55">
     <circle cx="1020" cy="170" r="80"/>
-    <circle cx="1128" cy="138" r="58"/>
-    <circle cx="1038" cy="322" r="92"/>
+    <circle cx="1125" cy="140" r="60"/>
+    <circle cx="1035" cy="320" r="90"/>
   </g>
   <g fill="#2c2722" stroke="#c81e3a" stroke-width="2">
     <circle cx="1020" cy="170" r="5"/>
-    <circle cx="1128" cy="138" r="5"/>
-    <circle cx="1038" cy="322" r="5"/>
+    <circle cx="1125" cy="140" r="5"/>
+    <circle cx="1035" cy="320" r="5"/>
   </g>
   <g stroke="#9a9188" stroke-width="2">
-    <line x1="1020" y1="170" x2="1072" y2="128"/>
-    <line x1="1128" y1="138" x2="1170" y2="116"/>
-    <line x1="1038" y1="322" x2="1100" y2="318"/>
+    <line x1="1020" y1="170" x2="1070" y2="125"/>
+    <line x1="1125" y1="140" x2="1168" y2="118"/>
+    <line x1="1035" y1="320" x2="1095" y2="318"/>
   </g>
-  <path fill="#c81e3a" d="M1088 186c-18 4-34-2-50-10-14-8-26-4-32 8-8 14 0 28 16 34-10 24-6 54 14 82 14 24 30 42 48 54l-8 40c-2 10-12 12-14 4l8-36-12 28c-4 10-14 8-12-2l26-38c-18-18-30-48-26-76-16 6-32-4-34-22 22-2 42 2 58-4 24 4 64 22 114 40 70 26 150 52 220 66 20 4 38-8 22-18-72-22-152-50-212-82-32-20-60-42-84-54-16-18-36-22-48-10z M1076 348l-8 44c-2 8 6 12 10 4l10-36-12-12z M1060 352l-14 36c-4 8 6 12 10 4l16-32-12-8z"/>
 </svg>
