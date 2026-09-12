@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 264" role="img" aria-label="RavenBlack">
-  <rect width="1200" height="264" fill="#0c0b0a"/>
-  <path fill="#c81e3a" d="M980 70c18-54 53-94 105-114-4-24 1-47 18-65 20 25 27 52 19 80 44 7 78 33 100 72-25-8-50-9-75-2 21 18 35 40 38 68-27-16-54-20-82-13 12 20 16 40 9 63-29-31-52-58-58-94-24 13-40 35-49 60-9-19-17-36-25-54Z"/>
-  <text x="64" y="148" fill="#f2ece4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-1.5">RavenBlack</text>
-  <rect x="64" y="168" width="168" height="3" fill="#c81e3a"/>
-  <text x="64" y="214" fill="#9a9188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="4">GAMMAHEX-HQ</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" role="img" aria-label="GammaHEX-HQ — github.com/Raven-Black00">
+  <rect width="1500" height="500" fill="#0c0b0a"/>
+  <text x="72" y="210" fill="#f2ece4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-2">GammaHEX-HQ</text>
+  <rect x="72" y="236" width="210" height="3" fill="#c81e3a"/>
+  <text x="72" y="286" fill="#9a9188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28">github.com/Raven-Black00</text>
+  <path fill="#c81e3a" d="M1280 140c16-48 47-84 94-102-4-21 1-42 16-58 18 22 24 46 17 71 39 6 70 29 89 64-22-7-45-8-67-2 19 16 31 36 34 61-24-14-48-18-73-12 11 18 14 36 8 56-26-28-46-52-52-84-21 12-36 31-44 54-8-17-15-32-22-48Z"/>
 </svg>
