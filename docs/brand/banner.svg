@@ -1,19 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" role="img" aria-label="RavenBlack — GammaHEX-HQ — github.com/Raven-Black00/GammaHEX-HQ">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" role="img" aria-label="RavenBlack — GammaHEX-HQ">
   <rect width="1500" height="500" fill="#0c0b0a"/>
   <rect x="0" y="0" width="6" height="500" fill="#c81e3a"/>
-  <text x="72" y="214" fill="#f2ece4" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-2">RavenBlack</text>
-  <rect x="72" y="236" width="248" height="3" fill="#c81e3a"/>
-  <text x="72" y="286" fill="#c81e3a" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="36" font-weight="600">GammaHEX-HQ</text>
-  <text x="72" y="332" fill="#9a9188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">github.com/Raven-Black00/GammaHEX-HQ</text>
-  <g fill="none" stroke="#c81e3a" stroke-width="3" opacity="0.85">
-    <circle cx="1188" cy="168" r="54"/>
-    <circle cx="1328" cy="156" r="46"/>
-    <circle cx="1204" cy="312" r="62"/>
+  <text x="90" y="232" fill="#f2ece4" font-family="Chakra Petch, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="100" font-weight="700" letter-spacing="-2">RavenBlack</text>
+  <rect x="90" y="250" width="560" height="4" fill="#c81e3a"/>
+  <text x="90" y="312" fill="#c81e3a" font-family="Chakra Petch, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="52" font-weight="600">GammaHEX-HQ</text>
+  <text x="90" y="358" fill="#9a9188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">github.com/Raven-Black00/GammaHEX-HQ</text>
+  <g fill="none" stroke="#c81e3a" stroke-width="3" opacity="0.55">
+    <circle cx="1132" cy="170" r="100"/>
+    <circle cx="1282" cy="140" r="72"/>
+    <circle cx="1162" cy="340" r="115"/>
   </g>
   <g fill="#2c2722" stroke="#c81e3a" stroke-width="2">
-    <circle cx="1188" cy="168" r="6"/>
-    <circle cx="1328" cy="156" r="5"/>
-    <circle cx="1204" cy="312" r="7"/>
+    <circle cx="1132" cy="170" r="6"/>
+    <circle cx="1282" cy="140" r="5"/>
+    <circle cx="1162" cy="340" r="6"/>
   </g>
-  <path fill="#c81e3a" d="M1368 318c16-48 47-84 94-102-4-21 1-42 16-58 18 22 24 46 17 71 39 6 70 29 89 64-22-7-45-8-67-2 19 16 31 36 34 61-24-14-48-18-73-12 11 18 14 36 8 56-26-28-46-52-52-84-21 12-36 31-44 54-8-17-15-32-22-48Z" transform="translate(-160 -40) scale(0.92)"/>
+  <g stroke="#9a9188" stroke-width="2">
+    <line x1="1132" y1="170" x2="1188" y2="118"/>
+    <line x1="1282" y1="140" x2="1330" y2="118"/>
+    <line x1="1162" y1="340" x2="1230" y2="338"/>
+  </g>
+  <g transform="translate(1288,168) scale(7.2)">
+    <path fill="#c81e3a" d="M6.2 20.4c1.6-4.8 4.7-8.4 9.4-10.2-.4-2.1.1-4.2 1.6-5.8 1.8 2.2 2.4 4.6 1.7 7.1 3.9.6 7 2.9 8.9 6.4-2.2-.7-4.5-.8-6.7-.2 1.9 1.6 3.1 3.6 3.4 6.1-2.4-1.4-4.8-1.8-7.3-1.2 1.1 1.8 1.4 3.6.8 5.6-2.6-2.8-4.6-5.2-5.2-8.4-2.1 1.2-3.6 3.1-4.4 5.4-.8-1.7-1.5-3.2-2.2-4.8Z"/>
+  </g>
 </svg>
