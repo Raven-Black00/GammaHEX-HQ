@@ -1,0 +1,11 @@
+ravenminer_config.json
+ravenminer_alerts.json
+ravenminer_ntfy_sent.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+*.spec
+.DS_Store
