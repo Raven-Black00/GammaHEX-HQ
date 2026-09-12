@@ -44,6 +44,9 @@ Geometric raven in crimson on iron. Same silhouette as `docs/brand/mark.svg`. No
 
 ## Lockups
 
-- Vector banner — `docs/brand/banner.svg` (README / X)
+- Vector banner — `docs/brand/banner.svg`
+- X header — `docs/brand/x-header-1500x500.svg` (1500×500, GitHub + GammaHEX-HQ)
 - Mark — `docs/brand/mark.svg`
 - Favicon — `docs/brand/favicon.svg`
+
+How to write the X header: [X-HEADER.md](brand/X-HEADER.md)
